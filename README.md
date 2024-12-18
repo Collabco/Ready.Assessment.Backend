@@ -16,10 +16,10 @@ give you a chance to demostrate your technical skills.</b>
 
 ## Supporting Information
 You will need to create a StudentInputModel Class, with following properties.
-UPN string mandatory
-FirstName string mandatory
-LastName string mandatory
-OtherNames string
+UPN string mandatory<br/>
+FirstName string mandatory<br/>
+LastName string mandatory<br/>
+OtherNames string<br/>
 DateOfBirth DateTime Between 01/01/1900 and 31/12/2008
 
 Return Success Code for  completed requests.
